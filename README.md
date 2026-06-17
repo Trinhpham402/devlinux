@@ -92,7 +92,7 @@ Hàng tuần, hệ thống tự động **kiểm tra xem mỗi học viên đã 
 
 ### Nội dung file CSV:
 
-File được tạo tự động mỗi **chủ nhật 23:59 UTC** (hoặc có thể trigger thủ công):
+File được cập nhật định kỳ theo lịch của lớp học:
 
 ```
 Student,Session-01,Session-02,Session-03,...,Session-20,Submission %
